@@ -103,3 +103,15 @@ Tampilannya Daftar menu sebagai berikut.
 
 ## Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
+
+![25.png](img/25.png)
+
+![26.png](img/26.png)
+
+Bentuk tampilannya di browser sebagai berikut.
+
+![27.png](img/27.png)
+
+*Jika form ada yang belum terisi saat Regist maka tidak bisa Regist.*
+
+![28.png](img/28.png)
